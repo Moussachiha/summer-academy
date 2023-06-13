@@ -1,0 +1,26 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #dddddd;
+  font-family: "Roboto",sans-serif;
+}
+
+li {
+  display: inline;
+}
+.text-center{
+  text-align: center;
+  color:black;
+  font-weight:bold;
+}
+h2 {
+	color: red;
+	font-family: roboto;
+	text-align: center;
+}
+body {
+  background-image: url("back.jpeg");
+  background-size: cover;
+  background-position: center;
+}
